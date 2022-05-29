@@ -48,7 +48,7 @@ function AboutUs() {
         action={{
           type: "external",
           route: "https://www.creative-tim.com/product/material-kit-react",
-          label: "My Cart",
+          label: "View Cart",
           color: "default",
         }}
         transparent
